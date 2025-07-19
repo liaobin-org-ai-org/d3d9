@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: mypackage
+Version: 0.0.2
+Summary: A short description
+Home-page: https://github.com/liaobin-org-ai-org/d3d9
+Author: liaobin
+Author-email: liaobin15863049682@outlok.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.25.1
+
+#d3d9
+this is d3d9 main
