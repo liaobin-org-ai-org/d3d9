@@ -2,4 +2,8 @@ requests>=2.25.1
 psd_tools=1.10.8
 numpy>=1.20.1
 pyglet>=1.11.0
+<<<<<<< HEAD
 Pillow>=1.11.0
+=======
+Pillow>=1.11.0
+>>>>>>> b5c77d9e01191a26e6639088702054aadd2d17ad
